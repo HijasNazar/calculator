@@ -76,6 +76,6 @@ body{
 }
 
 .btn:hover {
-    box-shadow: 2px 1px 11px rgba(33,33,33,.2); 
+    box-shadow: 10px 1px 20px rgba(33,33,33,.2); 
     background-color: rgba(172, 255, 47, 0.747);
 }
